@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Valid</description>
+   <name>LG_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d0a58cf-f726-4a51-8722-7cb101c43b0f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>INVALID</description>
+   <name>LG_002</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1ae0f467-213b-4a66-9a4d-f3bf29e84f51</testCaseGuid>
+</TestCaseEntity>
