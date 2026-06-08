@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Deskripsi kartu</name>
+   <tag></tag>
+   <elementGuidId>45606260-4460-447c-b791-091b5c4960e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#admin-cards-form-description-textarea</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'admin-cards-form-description-textarea']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Deskripsi kartu&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>77e180f1-f2b8-468e-901f-de07b63f29d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-field__input</value>
+      <webElementGuid>c50292a8-4647-4bde-a715-9947262cae16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Deskripsi kartu</value>
+      <webElementGuid>6a31cc1a-ac1c-48bf-aafb-cd4c9256b9e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>92d155e1-baac-42b2-9fd3-93c6041142c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>admin-cards-form-description-textarea</value>
+      <webElementGuid>3a5bc570-a61e-4eb3-9346-edc747ec432d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>admin-cards-form-description-textarea-messages</value>
+      <webElementGuid>f5af35b5-6896-4cc5-9a4f-6c7b4e924a20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f71dba3ecd6d3b919db5334d4acf3200</value>
+      <webElementGuid>c7543d10-61ea-4bd9-8e80-40985733543a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'admin-cards-form-description-textarea']</value>
+      <webElementGuid>104e8c22-f94e-460b-a501-812c69f31b13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'admin-cards-form-description-textarea']</value>
+      <webElementGuid>9d50179d-b641-4dc3-878d-cd21a1de0785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Deskripsi kartu' and @id = 'admin-cards-form-description-textarea']</value>
+      <webElementGuid>3806a712-65d3-4c01-983c-fccceab69b83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

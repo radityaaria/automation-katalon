@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Rarity Invalid - Empty Name</description>
+   <name>RRTY_002</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a3e4a741-0b14-4637-8237-fef129ad2191</testCaseGuid>
+</TestCaseEntity>

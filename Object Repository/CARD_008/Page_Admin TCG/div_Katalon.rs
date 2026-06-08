@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Katalon</name>
+   <tag></tag>
+   <elementGuidId>de97a8a1-3acc-4075-a1d9-50e6d01b00cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.v-list-item--link:nth-child(2) .v-list-item-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-list-item--link ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-list-item-title ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Katalon&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bd57a1ae-16d6-4649-93ec-bdea6ec7a8ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item-title</value>
+      <webElementGuid>6d0c5235-b0ae-44e4-ac85-e39248b85c69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalon</value>
+      <webElementGuid>81706849-f277-4517-968d-56911843df28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-4c409720ef3f5b52c78700aae822a8eb</value>
+      <webElementGuid>ab6cc484-d72c-4da3-91da-2a784bc4c73a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-list-item--link ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-list-item-title ')]</value>
+      <webElementGuid>2f95cc58-d353-47a3-8f43-80b91d54625a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-list-item--link ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-list-item-title ')]</value>
+      <webElementGuid>6946fc6e-3e77-401c-93be-044ad5555d3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Katalon' or . = 'Katalon')]</value>
+      <webElementGuid>b499613e-7d51-4b3a-967f-2eb099a7f368</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_admin-cards-form-submit-button</name>
+   <tag></tag>
+   <elementGuidId>af691b47-fd80-462a-b26f-12c13e7f8360</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#admin-cards-form-submit-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'admin-cards-form-submit-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Simpan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fcab03ca-f47c-45d2-9f0a-215338b90570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>9db12a2c-2950-4c24-b1d6-3c817318b74b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn v-btn--elevated v-theme--dark bg-primary v-btn--density-default v-btn--size-default v-btn--variant-elevated</value>
+      <webElementGuid>d75adca2-8eac-46ea-a97f-791b1536b9d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>admin-cards-form-submit-button</value>
+      <webElementGuid>d0d9beb1-b8cc-4fba-8701-b79aaa4bc750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Simpan </value>
+      <webElementGuid>c27b4a10-0ebe-477e-bed7-1ca0080b1322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5b436def7c3ef7405d1124d9dcba4cb6</value>
+      <webElementGuid>39928bf5-c002-4e5c-be2e-4a2845ba0b7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'admin-cards-form-submit-button']</value>
+      <webElementGuid>e58a3b21-767f-4f1e-8625-354148f49e4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'admin-cards-form-submit-button']</value>
+      <webElementGuid>7ec0df2e-8dd8-48a3-a2fb-24084f74b750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @id = 'admin-cards-form-submit-button' and (text() = ' Simpan ' or . = ' Simpan ')]</value>
+      <webElementGuid>786ded17-39b6-4379-8ab3-895ab5b825b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

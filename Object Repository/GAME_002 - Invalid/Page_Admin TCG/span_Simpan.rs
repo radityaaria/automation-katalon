@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Simpan</name>
+   <tag></tag>
+   <elementGuidId>ca336701-d710-47fb-b8be-2063db5f30af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#admin-games-form-submit-button .v-btn__content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'admin-games-form-submit-button']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-btn__content ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Simpan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0b6312dd-52bc-4dfd-babc-0cc70e350680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn__content</value>
+      <webElementGuid>2d82a257-5ed4-4db4-87b7-300a61247a55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Simpan </value>
+      <webElementGuid>143fb69e-bc10-4aee-9339-a25cf1c388c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-510ac970489a8cbc82b842f6668c5170</value>
+      <webElementGuid>8c07486e-b7da-4094-aee3-b79a2b2d1427</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'admin-games-form-submit-button']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-btn__content ')]</value>
+      <webElementGuid>f13ef25a-662d-445f-bb87-e87ff37eac8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'admin-games-form-submit-button']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-btn__content ')]</value>
+      <webElementGuid>2412eedd-885e-4af5-a484-042fc392edae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Simpan ' or . = ' Simpan ')]</value>
+      <webElementGuid>3a9c6a65-0139-48db-a814-7a8caf079ce1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

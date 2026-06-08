@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description></description>
-   <name>TS001_Login Test</name>
+   <description>Test Suite Login (Positive &amp; Negative)</description>
+   <name>TS_001_Login</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,33 +10,40 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>be6575d1-a38b-490c-8548-648cceec179f</testSuiteGuid>
+   <testSuiteGuid>0751f8da-610c-4ee7-8e0e-5d37969a2376</testSuiteGuid>
    <testCaseLink>
-      <guid>c31ab7bf-3cba-40d4-9fae-2d68127da16e</guid>
+      <guid>d66ceb5a-9154-4e92-8a67-3a37c1e18771</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LG_001</testCaseId>
+      <testCaseId>Test Cases/Login/LG_001</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>13b27718-604e-48c4-8c38-375da6b9e4e6</guid>
+      <guid>f5b55dfc-6c73-4f4f-80a7-2388b9b4a8a1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LG_002</testCaseId>
+      <testCaseId>Test Cases/Login/LG_002</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>11d62d9c-d3e6-4b32-875c-a20be2a65a27</guid>
+      <guid>abda8479-02ca-4cc5-9a46-0c880a26276c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LG_003</testCaseId>
+      <testCaseId>Test Cases/Login/LG_003</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>239a00b3-d58a-42fb-b57e-8b431a2366a4</guid>
+      <guid>9fdf5842-c7c8-4892-8cef-219231b409cb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LG_004</testCaseId>
+      <testCaseId>Test Cases/Login/LG_004</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b8bbf247-2899-4dc9-b731-5ba17a6abc5e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/LG_005</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

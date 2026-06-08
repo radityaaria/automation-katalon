@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Conditions - Valid</description>
+   <name>CNDTNS_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d35d63c7-394f-4f03-8444-f20a7b0e36c1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_vertical-nav-toggle-btn</name>
+   <tag></tag>
+   <elementGuidId>41eed023-db23-4a20-b27a-60f02309b640</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#vertical-nav-toggle-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'vertical-nav-toggle-btn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#vertical-nav-toggle-btn</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>aee630af-3af7-4186-9938-6aeaa05aae48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ded966af-d433-4e35-9c51-00f7f08157c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn v-btn--icon v-theme--dark text-default v-btn--density-default v-btn--size-default v-btn--variant-text ms-n3 d-lg-none</value>
+      <webElementGuid>08256fa2-0c70-4c60-802f-2b6b18aeed61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>vertical-nav-toggle-btn</value>
+      <webElementGuid>9eabf23b-454e-4b58-b3fd-dddc188f1de0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0cba494f6cf4607d303590103b31e6d8</value>
+      <webElementGuid>a541f85f-f1eb-40a3-b883-33631c42f523</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'vertical-nav-toggle-btn']</value>
+      <webElementGuid>7ed5b014-c397-4984-b610-1e905b65a576</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'vertical-nav-toggle-btn']</value>
+      <webElementGuid>cf562457-e0bc-46b5-97dc-98b54d0be391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'vertical-nav-toggle-btn']</value>
+      <webElementGuid>862bfbae-e8ab-4a21-83a4-2588fe764d09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

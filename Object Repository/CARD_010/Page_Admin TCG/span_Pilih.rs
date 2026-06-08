@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pilih</name>
+   <tag></tag>
+   <elementGuidId>9fe5b3de-f75d-42b7-bbab-2d6cae304d4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#admin-cards-image-pick-button .v-btn__content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'admin-cards-image-pick-button']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-btn__content ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#admin-cards-image-pick-button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>20059f89-f12a-489c-bdac-b7b3d89e1669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn__content</value>
+      <webElementGuid>500113ab-3fd7-4446-9c05-db06e34bc721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Pilih </value>
+      <webElementGuid>f976938b-1326-416b-8a39-56d9c701825c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a70d71bd7c8a7a8bbfb31b439c666a0c</value>
+      <webElementGuid>028699a6-fb6e-4077-ac81-c68dbd590726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'admin-cards-image-pick-button']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-btn__content ')]</value>
+      <webElementGuid>eec8a732-aac1-4f86-8efd-1ba9e47e06e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'admin-cards-image-pick-button']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-btn__content ')]</value>
+      <webElementGuid>6b39a0f0-2dee-4ddb-b1d5-fbd4cba2f5aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Pilih ' or . = ' Pilih ')]</value>
+      <webElementGuid>a2acfc83-fb0d-475b-8c46-a4feba070fa5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

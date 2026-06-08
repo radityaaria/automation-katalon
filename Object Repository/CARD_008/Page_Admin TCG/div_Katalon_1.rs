@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Katalon_1</name>
+   <tag></tag>
+   <elementGuidId>8712788b-fe72-433e-981e-f16a220e55f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.v-list-item--link:nth-child(4) .v-list-item-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-list-item--link ') and (position() = 4)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-list-item-title ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Common&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ab86e994-61e0-43b1-ac2f-e36bda23a8d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item-title</value>
+      <webElementGuid>ebd90cc2-50f7-4a35-b6c8-553b442679b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Common</value>
+      <webElementGuid>6c46d930-45f2-4ed5-bd6f-46f61bfb9e51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-dc650576466e552e63c3b0f28cd3dcd5</value>
+      <webElementGuid>406f21c8-7df5-498a-b595-217fc52fe502</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-list-item--link ') and (position() = 4)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-list-item-title ')]</value>
+      <webElementGuid>ce24ab48-099d-4162-bf72-7efb2c040520</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-list-item--link ') and (position() = 4)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-list-item-title ')]</value>
+      <webElementGuid>b0e9f33b-1094-430d-ad80-f12537e71cb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Common' or . = 'Common')]</value>
+      <webElementGuid>0762128b-5cc9-4fb4-953f-f79a5af61e55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

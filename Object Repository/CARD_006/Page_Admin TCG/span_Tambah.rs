@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tambah</name>
+   <tag></tag>
+   <elementGuidId>faf35070-8586-4c7c-8184-6b12e8a728d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#admin-cards-toolbar-create-button .v-btn__content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'admin-cards-toolbar-create-button']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-btn__content ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Tambah&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>feb90f52-ab8e-4ff2-9904-3419f7f4929e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn__content</value>
+      <webElementGuid>7b762180-625a-494a-8d10-8525d239e502</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tambah </value>
+      <webElementGuid>f6fff63c-2f61-4aaa-ab65-3fa341050f25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3eaf232c3b07be347bf2221371461871</value>
+      <webElementGuid>afc5b1f5-c1a1-4ef6-97cc-83c5665da359</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'admin-cards-toolbar-create-button']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-btn__content ')]</value>
+      <webElementGuid>dfdb451d-0d99-496e-bf5a-3e2d98eebf88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'admin-cards-toolbar-create-button']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-btn__content ')]</value>
+      <webElementGuid>d090dc91-7c61-448e-b023-eb296fdbe8b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Tambah ' or . = ' Tambah ')]</value>
+      <webElementGuid>9ec139f2-d3a3-4ab0-a895-2554cb7602fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

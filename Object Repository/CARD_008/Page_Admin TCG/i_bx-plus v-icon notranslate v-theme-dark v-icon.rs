@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_bx-plus v-icon notranslate v-theme-dark v-icon</name>
+   <tag></tag>
+   <elementGuidId>12543d7a-3ce2-4b41-9f27-a9b99ae1905e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.notranslate.v-theme--dark.bx-plus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' notranslate ') and contains(concat(' ', normalize-space(@class), ' '), ' v-theme--dark ') and contains(concat(' ', normalize-space(@class), ' '), ' bx-plus ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Tambah&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b8a14cb7-791e-4e00-ad77-2baaef72776b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bx-plus v-icon notranslate v-theme--dark v-icon--size-default</value>
+      <webElementGuid>9bb4feaf-ac5c-45ee-af9f-67fd2b0d192e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>cab5b204-6999-4be7-b27b-9f5903e5b72a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5bba238b9df1b693eb11003759a2cf43</value>
+      <webElementGuid>84c3dbc1-f1d3-4697-a3ad-6d14d64cf5af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' notranslate ') and contains(concat(' ', normalize-space(@class), ' '), ' v-theme--dark ') and contains(concat(' ', normalize-space(@class), ' '), ' bx-plus ')]</value>
+      <webElementGuid>ddbd3f9b-4b95-41ad-9c04-dbc61dbf6bd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' notranslate ') and contains(concat(' ', normalize-space(@class), ' '), ' v-theme--dark ') and contains(concat(' ', normalize-space(@class), ' '), ' bx-plus ')]</value>
+      <webElementGuid>e7981c02-c87a-4066-b3e8-3b9cc2f791bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

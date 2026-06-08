@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Card Invalid - Empty Card Number</description>
+   <name>CRD_008</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>38458ae9-00d0-43a7-9305-e25858ee03e2</testCaseGuid>
+</TestCaseEntity>

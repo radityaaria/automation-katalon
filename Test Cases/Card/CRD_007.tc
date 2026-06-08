@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Card Invalid - No Condition Selected</description>
+   <name>CRD_007</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b775c810-2466-4d2d-8a30-cedaaed9a475</testCaseGuid>
+</TestCaseEntity>

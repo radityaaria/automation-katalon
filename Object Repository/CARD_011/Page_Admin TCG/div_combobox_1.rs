@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_combobox_1</name>
+   <tag></tag>
+   <elementGuidId>6bbdb73a-e273-4187-85d5-dfc6688e00b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-child(8) .v-field--appended</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'div') and (position() = 8)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-field--appended ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4a1a741c-d801-43f8-8588-55aef988377c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-field v-field--appended v-field--center-affix v-field--no-label v-field--variant-outlined v-theme--dark v-locale--is-ltr</value>
+      <webElementGuid>6ecb6acf-60c8-40f5-a305-692c0b9407fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>combobox</value>
+      <webElementGuid>ab5eb5a3-5c12-499d-bc04-58306250c14e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>listbox</value>
+      <webElementGuid>ecc07420-18cc-4331-b066-1b45cd548cda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>2740b2e2-35f6-4166-bd49-6c671bda6389</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-owns</name>
+      <type>Main</type>
+      <value>v-menu-104</value>
+      <webElementGuid>c0f710d2-99ca-415d-b5f2-c47e9befd941</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0132e083b81e32e0f48be8c699c7c0d9</value>
+      <webElementGuid>a3dd490a-c40c-44d2-8b0e-b6e7a1ed08bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 8)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-field--appended ')]</value>
+      <webElementGuid>e377254a-94bf-4da5-8696-8361de01bfc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 8)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' v-field--appended ')]</value>
+      <webElementGuid>dd9aac29-8999-4b59-9ac1-fc72947f6064</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

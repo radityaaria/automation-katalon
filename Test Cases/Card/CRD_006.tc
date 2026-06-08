@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Game Invalid - No Rarity Selected</description>
+   <name>CRD_006</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bbbb76ed-e548-4fa2-bbdf-8a8cfd11af90</testCaseGuid>
+</TestCaseEntity>

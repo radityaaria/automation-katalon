@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Game Invalid - Empty Submission</description>
+   <name>GAME-002</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7efad3a0-1442-4b40-bee6-4a66f8618311</testCaseGuid>
+</TestCaseEntity>

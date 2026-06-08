@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Card Invalid - No Back Card IMG</description>
+   <name>CRD_003</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54a4e658-2d43-441c-be9f-5add21e42713</testCaseGuid>
+</TestCaseEntity>

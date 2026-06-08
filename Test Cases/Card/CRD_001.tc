@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Card - Valid</description>
+   <name>CRD_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>426b2631-a4b4-4dff-b0f6-f04828b08719</testCaseGuid>
+</TestCaseEntity>

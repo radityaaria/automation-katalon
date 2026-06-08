@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Rarity - Valid</description>
+   <name>RRTY_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3fb83482-806a-408f-9d2e-0123daa9de7e</testCaseGuid>
+</TestCaseEntity>

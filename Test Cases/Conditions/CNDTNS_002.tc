@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Conditions Invalid - Empty Name</description>
+   <name>CNDTNS_002</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>447be207-f278-48f7-b562-edb53bf088f5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Game Valid</description>
+   <name>GAME_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3905a29e-cc97-4ffd-b2cc-96a23ad8d38b</testCaseGuid>
+</TestCaseEntity>

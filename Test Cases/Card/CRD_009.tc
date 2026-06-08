@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Card Invalid - Empty Field Harga</description>
+   <name>CRD_009</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ca58b761-9d93-4629-aad8-d9378e4ffa92</testCaseGuid>
+</TestCaseEntity>
